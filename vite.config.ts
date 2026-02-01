@@ -8,6 +8,10 @@ export default defineConfig({
       input: {
         main: "index.html",
         sales: "index-sales.html",
+        account: "account.html",
+        dashboard: "dashboard.html",
+        terms: "terms.html",
+        privacy: "privacy.html",
       },
     },
   },
